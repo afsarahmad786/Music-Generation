@@ -2,7 +2,6 @@
 
 ## Table of Contents (Optional)
 
-> If your `README` has a lot of info, section headers might be nice.
 - [installation](#installation)
 - [Data collection](#Data_collection)
 - [Data Cleaning](#Data_Cleaning)
